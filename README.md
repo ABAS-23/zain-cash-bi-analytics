@@ -26,7 +26,7 @@ A complete data analysis & visualization project that:
 ## 📊 Dashboard Pages
 
 ### Page 1: Executive Summary
-![ZainCash Dashboard Page 1](screenshots/zaincash-1.png)
+![ZainCash Dashboard Page 1](ZainCash_Analytics/screenshots/zaincash-1.png)
 
 **Key findings:**
 - 8.18K reviews analyzed (2016-2026)
