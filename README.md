@@ -53,7 +53,7 @@ A complete data analysis & visualization project that:
 ---
 
 ### Page 3: Gender Analysis
-![ZainCash Dashboard Page 3](screenshots/zaincash-3.png)
+![ZainCash Dashboard Page 3](ZainCash_Analytics/screenshots/zaincash-3.png)
 
 **Findings:**
 - Male avg rating: 3.80★
