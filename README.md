@@ -40,7 +40,7 @@ A complete data analysis & visualization project that:
 ---
 
 ### Page 2: Distribution & NPS Analysis
-![ZainCash Dashboard Page 2](screenshots/zaincash-2.png)
+![ZainCash Dashboard Page 2](ZainCash_Analytics/screenshots/zaincash-2.png)
 
 **Visualizations:**
 - Star distribution (5★ dominates with 65.9%)
