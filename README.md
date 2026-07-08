@@ -67,7 +67,7 @@ A complete data analysis & visualization project that:
 ---
 
 ### Page 4: Content Analysis
-![ZainCash Dashboard Page 4](screenshots/zaincash-4.png)
+![ZainCash Dashboard Page 4](ZainCash_Analytics/screenshots/zaincash-4.png)
 
 **Analysis:**
 - Long reviews (100+ chars): Generate higher engagement
