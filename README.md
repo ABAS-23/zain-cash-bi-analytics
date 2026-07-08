@@ -81,7 +81,7 @@ A complete data analysis & visualization project that:
 ---
 
 ### Page 5: Conclusions & Recommendations
-![ZainCash Dashboard Page 5](screenshots/zaincash-5.png)
+![ZainCash Dashboard Page 5](ZainCash_Analytics/screenshots/zaincash-5.png)
 
 **10 Critical Findings:**
 1. ZainCash quality is strong (3.93★ rating)
